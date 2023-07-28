@@ -7,6 +7,7 @@
     https://bgwgroupcompanies.vercel.app/
 4. React - BGWSite Version 2
     https://bgw-groupcompanies.vercel.app/
-6. React, ViteJS Interview assessment FE
+5. React, ViteJS Interview assessment FE
     https://sample-car-landingpage-vite-js.vercel.app/
-7. 
+6. HTML, CSS, JS Guess my number game
+    https://guessnumber1to99.netlify.app/
