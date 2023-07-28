@@ -5,3 +5,5 @@
     https://show-case-sammy-demo.vercel.app/
 3. React, ViteJS, React Hook forms, GSAP animation, Firebase, Google Map API, Axios, EmailJS
     https://bgwgroupcompanies.vercel.app/
+4. React, ViteJS Interview assessment FE
+   https://sample-car-landingpage-vite-js.vercel.app/
