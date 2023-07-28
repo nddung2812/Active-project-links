@@ -11,3 +11,5 @@
     https://sample-car-landingpage-vite-js.vercel.app/
 6. HTML, CSS, JS Guess my number game
     https://guessnumber1to99.netlify.app/
+7. NextJS, React, Tailwind, HeadlessUI, TS, Axios
+    https://car-sale-next-js-ts-tailwind-css-oqln.vercel.app/
