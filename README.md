@@ -25,3 +25,5 @@
     
 17. WIP - Aquatic Center Swan Design - React Vite
     https://swan-design-aquatic-center.vercel.app/
+19. Glass Effects - HTML CSS
+    https://glass-effects.vercel.app/
