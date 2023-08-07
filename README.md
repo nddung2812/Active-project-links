@@ -33,5 +33,8 @@
 21. Flip animation with GSAP scroll
     https://flip-animation-scroll.vercel.app/
 
-23. Gradient border
+23. Gradient border - HTML CSS
     https://gradient-border-button.vercel.app/
+
+25. Keyboard pro - React, styled components Css
+    https://keyboard-pro.vercel.app/
