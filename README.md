@@ -32,3 +32,6 @@
     
 21. Flip animation with GSAP scroll
     https://flip-animation-scroll.vercel.app/
+
+23. Gradient border
+    https://gradient-border-button.vercel.app/
