@@ -38,3 +38,6 @@
 
 25. Keyboard pro - React, styled components Css
     https://keyboard-pro.vercel.app/
+
+27. Scroll pin stack vertically - HTML, CSS, JS, GSAP
+    https://scroll-pin-vertically-stacking-divs.vercel.app/
