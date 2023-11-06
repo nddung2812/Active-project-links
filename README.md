@@ -42,5 +42,7 @@
 27. Scroll pin stack vertically - HTML, CSS, JS, GSAP
     https://scroll-pin-vertically-stacking-divs.vercel.app/
 
-27. Nav bar with neumorphism styling - HTML CSS JS
+29. Nav bar with neumorphism styling - HTML CSS JS
     https://neumorphism-nav-bar.vercel.app/
+
+31. Butterbeer.io https://www.butterbeer.io/
